@@ -27,7 +27,7 @@ body.background {
 .continue:hover {
   color: white;
 }
-body.dark {
+.dark {
   background-color: black;
   text-color: white;
 }
