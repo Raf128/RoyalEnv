@@ -29,4 +29,5 @@ body.background {
 }
 body.dark {
   background-color: black;
+  text-color: white;
 }
