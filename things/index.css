@@ -22,6 +22,6 @@ button {
 }
 body {
   background-color: slategray;
-  background-image: /things/back.png
+  background-image: url("/things/back.png");
 }
 
