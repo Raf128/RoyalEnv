@@ -3,3 +3,4 @@ function start() {
 }
 function dark() {
    document.getElementById("background").style.classname="dark";
+}
