@@ -38,5 +38,5 @@ body.background {
   color: orange;
 }
 #continue:hover { 
-  filter: brightness(200%); 
+  filter: brightness(20000%); 
 }
