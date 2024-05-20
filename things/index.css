@@ -32,3 +32,8 @@ body.background {
   background-image: url("/things/back2.png");
   color: white;
 }
+.light {
+  background-color: white;
+  background-image: url("/things/kys.jpg");
+  color: orange;
+}
