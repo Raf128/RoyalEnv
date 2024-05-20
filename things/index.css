@@ -31,7 +31,7 @@ body.background {
   background-color: black;
   background-image: url("/things/back2.png");
   color: white;
-  image.content: url("http://imgur.com/SZ8Cm.jpg");
+  image.content: url("/things/forwardlight.png");
 }
 .light {
   background-color: white;
