@@ -41,8 +41,3 @@ body.background {
 #continue:hover { 
   filter: brightness(20000%); 
 }
-.darkb {
-  content: url("/things/forwardlight.png");
-  max-width: 10%;
-  max-height: 2%;
-}
