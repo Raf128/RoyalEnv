@@ -2,5 +2,6 @@ function start() {
   document.location.href = /os.html/;
 }
 function dark() {
-   document.getElementById("background").style.classname="dark";
+   document.getElementById("body").classList.remove('background');
+   document.getElementById("body").classList.add('dark');
 }
