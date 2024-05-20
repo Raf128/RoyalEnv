@@ -43,4 +43,6 @@ body.background {
 }
 .darkb {
   content: url("/things/forwardlight.png");
+  width: 100px;
+  height: 70px;
 }
