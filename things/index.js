@@ -11,3 +11,10 @@ function light() {
   document.getElementById("body").classList.add('background');
   document.getElementById("header").classList.remove('dark');
 }
+function bright() {
+  document.getElementById("body").classList.remove('dark');
+  document.getElementById("body").classList.remove('background');
+  document.getElementById("body").classList.add('light');
+  document.getElementById("header").classList.remove('dark');
+  document.getElementById("body").classList.add('light');
+}
