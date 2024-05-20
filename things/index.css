@@ -20,10 +20,13 @@ button {
   background-color: black;
   color: orange;
 }
-body {
+#background {
   background-color: slategray;
   background-image: url("/things/back.png");
 }
 .continue:hover {
   color: white;
+}
+#dark {
+  background-color: black;
 }
