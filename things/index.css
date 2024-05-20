@@ -31,7 +31,7 @@ body.background {
   background-color: black;
   background-image: url("/things/back2.png");
   color: white;
-  image.content: url("/things/forwardlight.png");
+  content: url("/things/forwardlight.png");
 }
 .light {
   background-color: white;
@@ -40,4 +40,7 @@ body.background {
 }
 #continue:hover { 
   filter: brightness(20000%); 
+}
+.darkb {
+  content: url("/things/forwardlight.png");
 }
