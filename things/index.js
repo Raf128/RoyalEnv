@@ -4,4 +4,5 @@ function start() {
 function dark() {
    document.getElementById("body").classList.remove('background');
    document.getElementById("body").classList.add('dark');
+   document.getElementById("header").classList.add('dark');
 }
