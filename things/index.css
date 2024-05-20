@@ -29,5 +29,6 @@ body.background {
 }
 .dark {
   background-color: black;
+  background-image: url("/things/back2.png");
   color: white;
 }
