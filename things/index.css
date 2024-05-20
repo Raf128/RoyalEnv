@@ -37,6 +37,6 @@ body.background {
   background-image: url("/things/kys.jpeg");
   color: orange;
 }
-image:hover { 
+#continue:hover { 
   filter: brightness(50%); 
 }
