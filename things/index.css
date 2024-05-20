@@ -37,3 +37,9 @@ body.background {
   background-image: url("/things/kys.jpeg");
   color: orange;
 }
+.brightness { 
+  background-color: white; display: inline-block;
+}
+.brightness img:hover { 
+  opacity: .5; 
+}
