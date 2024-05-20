@@ -24,4 +24,6 @@ body {
   background-color: slategray;
   background-image: url("/things/back.png");
 }
-
+.continue:hover {
+  color: white;
+}
